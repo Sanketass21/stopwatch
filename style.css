@@ -45,7 +45,7 @@ body{
 .buttons button{
     width: 120px;
     height: 45px;
-    background-color:#8c52ff;
+    background-color:mediumseagreen;
     color: white;
     border:none;
     font-family: 'Poppins',sans-serif;
@@ -55,11 +55,11 @@ body{
     outline: none;
 }
 .buttons button:nth-last-child(2){
-    background-color: #e35;
+    background-color: purple;
 }
 
 .buttons button:nth-last-child(1){
-    background-color: #f7df1e;
+    background-color: red;
 }
 .buttons button:hover{
     box-shadow: 0 0 20px rgba(0,0,0,0.25);
